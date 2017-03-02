@@ -1,5 +1,5 @@
 [package]
-name = "rusty-feat"
+name = "feat"
 version = "0.0.1"
 authors = ["Sebastian Wicki <gandro@gmx.net>"]
 
