@@ -1,6 +1,6 @@
 extern crate feat;
 
-use feat::{Finite, Natural};
+use feat::finite::{Finite, Natural};
 
 fn main() {
     let three = Natural(3);
